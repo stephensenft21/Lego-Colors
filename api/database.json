@@ -1,0 +1,39 @@
+{
+  "lego": [
+    {
+      "id": 1,
+      "creator": "",
+      "color": "",
+      "shape": "",
+      "creation": ""
+    },
+    {
+      "creator": "stephen",
+      "shape": "round",
+      "creation": "cat",
+      "color": "1",
+      "id": 2
+    },
+    {
+      "creator": "stephen",
+      "shape": "round",
+      "creation": "cat",
+      "color": "1",
+      "id": 3
+    },
+    {
+      "creator": "Jisie",
+      "shape": "Rectangle",
+      "creation": "cat",
+      "color": "1",
+      "id": 4
+    },
+    {
+      "creator": "Jisie",
+      "shape": "Rectangle",
+      "creation": "cat",
+      "color": "1",
+      "id": 5
+    }
+  ]
+}
